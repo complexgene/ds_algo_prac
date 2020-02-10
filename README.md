@@ -1,5 +1,3 @@
-# ds_algo_prac
-
 # Data Structures (Basic)
 - Arrays
   - [ ] 1D
