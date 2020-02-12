@@ -31,7 +31,9 @@
 - [ ] Interval Trees
 # Algorithms
 - <h2>Arrays</h2>
+
   # Basic
+  
   > Searching and Sorting
     - [ ] Sequential Search
     - [ ] Binary Search
