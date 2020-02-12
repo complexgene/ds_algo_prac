@@ -29,18 +29,19 @@
 - [ ] K Dimensional Tree
 - [ ] Treap (A Randomized Binary Search Tree)
 - [ ] Interval Trees
+
 # Algorithms
 > Arrays
- - [ ] Searching and Sorting
- - [ ] Array Rotations
- - [ ] Arrangement Rearrangement
- - [ ] Order Statistics
- - [ ] Range Queries
- - [ ] Optimization Problems
- - [ ] Matrix
- - [ ] Misc
-- Linked List
-  > Insertions and Deletions
+  - [ ] Searching and Sorting
+  - [ ] Array Rotations
+  - [ ] Arrangement Rearrangement
+  - [ ] Order Statistics
+  - [ ] Range Queries
+  - [ ] Optimization Problems
+  - [ ] Matrix
+  - [ ] Misc
+> Linked List
+  - Insertions and Deletions
     - [ ] Insertion & Deletion in Singly LL (at beginning).
     - [ ] Insertion & Deletion in Singly LL (at end).
     - [ ] Insertion & Deletion in Singly LL (at specific position).
