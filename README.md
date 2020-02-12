@@ -46,8 +46,11 @@
   - Circular Linked List
   - Doubly Linked List
   - Misc
+
 > Stack
+
 > Queue
+
 > Binary Tree
   - Traversals
   - Construction & Conversion
