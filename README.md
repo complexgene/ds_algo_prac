@@ -41,19 +41,20 @@
   - [ ] Matrix
   - [ ] Misc
 > Linked List
-  - Insertions and Deletions
-    - [ ] Insertion & Deletion in Singly LL (at beginning).
-    - [ ] Insertion & Deletion in Singly LL (at end).
-    - [ ] Insertion & Deletion in Singly LL (at specific position).
-    - [ ] Insertion & Deletion in Doubly LL (at beginning).
-    - [ ] Insertion & Deletion in Doubly LL (at end).
-    - [ ] Insertion & Deletion in Doubly LL (at specific position).
-    - [ ] Insertion & Deletion in Circular LL (at beginning).
-    - [ ] Insertion & Deletion in Circular LL (at end).
-    - [ ] Insertion & Deletion in Circular LL (at specific position).
-    - [ ] Insertion & Deletion in Circular Doubly LL (at beginning).
-    - [ ] Insertion & Deletion in Circular Doubly LL (at end).
-    - [ ] Insertion & Deletion in Circular Doubly LL (at specific position).
-    
+  - Insertions and Deletions(beginning, end, specific position)
+  - Singly Linked List
+  - Circular Linked List
+  - Doubly Linked List
+  - Misc
+> Stack
+> Queue
+> Binary Tree
+  - Traversals
+  - Construction & Conversion
+  - Checking & Printing
+  - Summation
+  - Longest Common Ancestor
+  - Misc
+
 - [ ] 0/1 Knapsack problem
 - [ ] 
