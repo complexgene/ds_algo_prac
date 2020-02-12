@@ -30,7 +30,7 @@
 - [ ] Treap (A Randomized Binary Search Tree)
 - [ ] Interval Trees
 # Algorithms
-- Arrays
+- <h2>Arrays</h2>
   # Basic
   > Searching and Sorting
     - [ ] Sequential Search
@@ -39,14 +39,16 @@
     - [ ] Insertion Sort
     - [ ] Quick Sort
   # Advanced
-    - [ ] Reversal algorithm for array rotation
-    - [ ] Block swap algorithm for array rotation
-    - [ ] Cyclically rotate an array by one
-    - [ ] Search an element in a sorted and rotated array
-    - [ ] Given a sorted and rotated array, find if there is a pair with a given sum
-    - [ ] Find maximum value of Sum(i * arr\[\i\]) with only rotations on given array allowed
-    - [ ] Block swap algorithm for array rotation
-    - [ ] Block swap algorithm for array rotation
+    > Array Rotations
+      - [ ] Maximum sum of i * arr[i] among all rotations of a given array
+    > Arrangement Rearrangement
+      - [ ] Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
+    > Order Statistics
+      - [ ] K-th Largest Sum Contiguous Subarray
+    > Range Queries
+    > Optimization Problems
+    > Matrix
+    > Misc
     
 - Linked List
   > Insertions and Deletions
