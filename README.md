@@ -30,36 +30,15 @@
 - [ ] Treap (A Randomized Binary Search Tree)
 - [ ] Interval Trees
 # Algorithms
-- <h2>Arrays</h2>
-
-  <h3>Basic</h3>
-  > Searching and Sorting
-  
-    - [ ] Sequential Search
-    - [ ] Binary Search
-    - [ ] Selection Sort
-    - [ ] Insertion Sort
-    - [ ] Quick Sort
-  
-  <h3>Advanced</h3>
-  > Array Rotations
-  
-    - [ ] Maximum sum of i * arr[i] among all rotations of a given array
-  
-  > Arrangement Rearrangement
-    - [ ] Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
-  
-  > Order Statistics
-    - [ ] K-th Largest Sum Contiguous Subarray
-  
-  > Range Queries
-  
-  > Optimization Problems
-  
-  > Matrix
-  
-  > Misc
-    
+- Arrays
+ - [ ] Searching and Sorting
+ - [ ] Array Rotations
+ - [ ] Arrangement Rearrangement
+ - [ ] Order Statistics
+ - [ ] Range Queries
+ - [ ] Optimization Problems
+ - [ ] Matrix
+ - [ ] Misc
 - Linked List
   > Insertions and Deletions
     - [ ] Insertion & Deletion in Singly LL (at beginning).
