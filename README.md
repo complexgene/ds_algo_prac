@@ -30,7 +30,7 @@
 - [ ] Treap (A Randomized Binary Search Tree)
 - [ ] Interval Trees
 # Algorithms
-- Arrays
+> Arrays
  - [ ] Searching and Sorting
  - [ ] Array Rotations
  - [ ] Arrangement Rearrangement
