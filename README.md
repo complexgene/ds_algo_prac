@@ -32,25 +32,24 @@
 # Algorithms
 - <h2>Arrays</h2>
 
-  # Basic
-  
+  <h3>Basic</h3>
   > Searching and Sorting
     - [ ] Sequential Search
     - [ ] Binary Search
     - [ ] Selection Sort
     - [ ] Insertion Sort
     - [ ] Quick Sort
-  # Advanced
-    > Array Rotations
-      - [ ] Maximum sum of i * arr[i] among all rotations of a given array
-    > Arrangement Rearrangement
-      - [ ] Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
-    > Order Statistics
-      - [ ] K-th Largest Sum Contiguous Subarray
-    > Range Queries
-    > Optimization Problems
-    > Matrix
-    > Misc
+  <h3>Advanced</h3>
+  > Array Rotations
+    - [ ] Maximum sum of i * arr[i] among all rotations of a given array
+  > Arrangement Rearrangement
+    - [ ] Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
+  > Order Statistics
+    - [ ] K-th Largest Sum Contiguous Subarray
+  > Range Queries
+  > Optimization Problems
+  > Matrix
+  > Misc
     
 - Linked List
   > Insertions and Deletions
