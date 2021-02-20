@@ -29,7 +29,29 @@
 - [ ] K Dimensional Tree
 - [ ] Treap (A Randomized Binary Search Tree)
 - [ ] Interval Trees
-
+# Graph Algorithms
+- [ ] Construct a Graph
+- Traverse a Graph 
+  - [ ] BFS
+  - [ ] DFS
+- [ ] Find if a graph is cyclic or acyclic
+- Shortest Path 
+  - [ ] BFS
+  - [ ] Dijktras
+- [ ] Topological Sorting
+- Minimum Spanning Tree
+  - [ ] Kruskal
+  - [ ] Prims
+- Bactracking
+  - [ ] n-Queens
+  - [ ] Rat in a Maze
+  - [ ] Knight Tour
+- Imp Problems 
+  - [ ] Bellman Ford
+  - [ ] Floyd Warshall
+  - [ ] TSP
+  - [ ] Flood Fill
+  - [ ] Graph Coloring
 # Algorithms
 > Arrays
   - [ ] Searching and Sorting
@@ -58,6 +80,6 @@
   - Summation
   - Longest Common Ancestor
   - Misc
-
-- [ ] 0/1 Knapsack problem
-- [ ] 
+  
+> Extra Problems
+  - [ ] 0/1 Knapsack problem
